@@ -1,4 +1,3 @@
-Give it a star to follow :D
 
 # Music to Movie (MTM)
 
