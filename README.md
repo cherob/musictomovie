@@ -27,3 +27,9 @@ To contribute to this project, please follow these steps:
 ## License
 
 This project is licensed under the MIT License.
+
+## Discord
+
+Every start is from zero.
+
+[Invite Link](https://discord.gg/AKdGsafGm9)
