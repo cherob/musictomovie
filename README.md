@@ -19,18 +19,8 @@ If you are interested in collaborating on this project, please feel free to reac
 
 To contribute to this project, please follow these steps:
 
-    Fork the repository
-    Create a branch for your changes (e.g. feature/my-feature)
-    Make your changes and commit them to the branch
-    Push the branch to your forked repository
-    Create a pull request to the original repository
+    Join our [Discord Server](https://discord.gg/AKdGsafGm9)
 
 ## License
 
 This project is licensed under the MIT License.
-
-## Discord
-
-Every start is from zero.
-
-[Invite Link](https://discord.gg/AKdGsafGm9)
