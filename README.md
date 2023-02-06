@@ -19,7 +19,7 @@ If you are interested in collaborating on this project, please feel free to reac
 
 To contribute to this project, please follow these steps:
 
-    Join our [Discord Server](https://discord.gg/AKdGsafGm9)
+   Join our [Discord Server](https://discord.gg/AKdGsafGm9)
 
 ## License
 
